@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Text;
 
+/*
+    This class must be divided in 3 different classes, patient, doctor and apointment.
+*/
+
 namespace Library
 {
     public class AppointmentService
@@ -50,4 +54,5 @@ namespace Library
         }
 
     }
+
 }
